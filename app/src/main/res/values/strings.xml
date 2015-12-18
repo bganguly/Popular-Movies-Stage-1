@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleGridViewTutorial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sort_by_popularity">Sort by popularity</string>
+    <string name="action_sort_by_rating">Sort by ratings</string>
+    <string name="image_view_content_description">Movie Poster Thumbnail</string>
+</resources>
